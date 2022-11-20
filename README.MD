@@ -1,3 +1,14 @@
+# Herramientas Integradas
+
+- [Snyk](https://snyk.io/):
+    - Analisis de codigo estatico
+    - Escaneo de contenedores
+    ![Snky](./images/snyk.png)
+- [ZAP Proxy](https://www.zaproxy.org/)
+    - Prueba dinamica de seguridad
+- [Dependabot](https://github.com/dependabot)
+    - Analisis de dependencias
+
 # Una aplicación vulnerable para aplicar seguridad
 
 ### Cómo Desplegar aplicación Docker NodeJS en Heroku de forma local
